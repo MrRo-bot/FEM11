@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a Fylo landing page with two columns
+Created NEWBIE Fylo landing page with two columns
 
 ### The challenge
 
@@ -26,8 +26,9 @@ Using every CSS basic features
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM11]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/vYgoBQN]
+- GITHUB REPO: [https://github.com/MrRo-bot/fylo-landing-page-with-two-column-layout]
+
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/vYgoBQN]
 
 ## My process
 
