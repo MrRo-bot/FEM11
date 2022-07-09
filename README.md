@@ -14,7 +14,7 @@
 
 ## Overview
 
-Created NEWBIE Fylo landing page with two columns
+Created JUNIOR Fylo landing page with two columns
 
 ### The challenge
 
